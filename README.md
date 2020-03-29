@@ -1,2 +1,2 @@
 # hello-world
-Just another repository 
+My name is Bogdan. A newbie wannabe js front-end developer, ok?
